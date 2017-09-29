@@ -17,7 +17,7 @@
   },
   "css": {
     "font": [],
-    "import": ["https://rawgit.com/wilki2w/Serwer-2/dupa/style.css"],
+    "import": ["https://rawgit.com/wilki2w/cssp3/master/style.css"],
     "rule": []
   },
   "images": {
